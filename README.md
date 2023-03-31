@@ -4,4 +4,5 @@
 ▪allow to send multiple different emails during single session (accepting verbose-like input from #1)<br>
 ▪allow to send email from provided csv merge file<br>
 ▪contain automated tests in VS test project or dotnet script .csx<br>
-<i>Please use mycontacts.csv for multiple persons!</i>
+<br>
+<i>➲Please use mycontacts.csv for multiple persons!</i>
