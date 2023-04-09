@@ -14,8 +14,8 @@ namespace ElasticEmailClient
         static void Main(string[] args)
         {
             NameValueCollection values = new NameValueCollection();
-            values.Add("apikey", "B4681B288007926DAAD054033662A2C0A4AADCFB2A4D950667B6AD55CD7676F39AB950D251794626D53AAA20775F01E9");
-            values.Add("from", "d.hrymajllo@gmail.com");
+            values.Add("apikey", "Your API Key");
+            values.Add("from", "Your Email");
             values.Add("fromName", "Your Company Name");
             //values.Add("to", "xyz@xyz.com"); // If u want send to one person
             values.Add("subject", "Your Subject");
